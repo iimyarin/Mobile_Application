@@ -24,7 +24,7 @@ class MenuHome extends StatelessWidget {
     'image/icon_menu/hydrometer.png',
     'image/icon_menu/hydration.png',
     'image/icon_menu/report.png',
-    'image/icon_menu/chatbot.png',
+    'image/icon_menu/aiq.png',
   ];
 
   final fn = [
