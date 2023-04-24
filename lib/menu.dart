@@ -11,7 +11,7 @@ class MenuHome extends StatelessWidget {
     'Calculate\n the amount of water',
     'Adding Amount',
     'Report',
-    'Health Assistant',
+    'Air Quality ',
   ];
   final box_color = [
     0xff465EA6,
@@ -31,7 +31,8 @@ class MenuHome extends StatelessWidget {
     CalculateRoute(),
     AddAmoutPage(),
     ListAmount(),
-    HealthAssistant(),
+    // HealthAssistant(),
+    AQIPage(),
   ];
 
   @override
